@@ -1,0 +1,9 @@
+
+
+
+python-magic
+python-docx
+flask
+requests
+
+
